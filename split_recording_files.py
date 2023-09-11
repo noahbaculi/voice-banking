@@ -18,4 +18,4 @@ assert (
 # breakpoint()
 for idx, non_silent_section in enumerate(non_silent_clips):
     phrase_number = idx + 1
-    non_silent_section.export(f"recording/phrase_{phrase_number}.wav")
+    non_silent_section.export(f"dataset/wavs/phrase_{phrase_number}.wav")
