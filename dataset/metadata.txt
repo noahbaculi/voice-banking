@@ -1,0 +1,149 @@
+phrase_1|The birch canoe slid on the smooth planks.
+phrase_2|Glue the sheet to the dark blue background.
+phrase_3|It’s easy to tell the depth of a well.
+phrase_4|These days a chicken leg is a rare dish.
+phrase_5|Rice is often served in round bowls.
+phrase_6|The juice of lemons makes fine punch.
+phrase_7|The box was thrown beside the parked truck.
+phrase_8|The hogs were fed chopped corn and garbage.
+phrase_9|Four hours of steady work faced us.
+phrase_10|A large size in stockings is hard to sell.
+phrase_11|The boy was there when the sun rose.
+phrase_12|A rod is used to catch pink salmon.
+phrase_13|The source of the huge river is the clear spring.
+phrase_14|Kick the ball straight and follow through.
+phrase_15|Help the woman get back to her feet.
+phrase_16|A pot of tea helps to pass the evening.
+phrase_17|Smoky fires lack flame and heat.
+phrase_18|The soft cushion broke the man’s fall.
+phrase_19|The salt breeze came across from the sea.
+phrase_20|The girl at the booth sold fifty bonds.
+phrase_21|The small pup gnawed a hole in the sock.
+phrase_22|The fish twisted and turned on the bent hook.
+phrase_23|Press the pants and sew a button on the vest.
+phrase_24|The swan dive was far short of perfect.
+phrase_25|The beauty of the view stunned the young boy.
+phrase_26|Two blue fish swam in the tank.
+phrase_27|Her purse was full of useless trash.
+phrase_28|The colt reared and threw the tall rider.
+phrase_29|It snowed, rained, and hailed the same morning.
+phrase_30|Read verse out loud for pleasure.
+phrase_31|Prosecutors have opened a massive investigation into allegations of fixing games and illegal betting.
+phrase_32|Different telescope designs perform differently, and have different strengths and weaknesses.
+phrase_33|We can continue to strengthen the education of good lawyers.
+phrase_34|Feedback must be timely and accurate throughout the project.
+phrase_35|Humans also judge distance by using the relative sizes of objects.
+phrase_36|Churches should not encourage it, or make it look harmless.
+phrase_37|Learn about setting up wireless network configuration.
+phrase_38|You can eat them fresh cooked, or fermented.
+phrase_39|If this is true, then those who tend to think creatively, really are somehow different.
+phrase_40|She will likely jump for joy, and want to skip straight to the honeymoon.
+phrase_41|The sugar syrup should create very fine strands of sugar, that drape over the handles.
+phrase_42|But really in the grand scheme of things, this information is insignificant.
+phrase_43|I let the positive overrule the negative.
+phrase_44|He wiped his brow with his forearm.
+phrase_45|Instead of fixing it, they give it a nickname.
+phrase_46|About half the people, who are infected, also lose weight.
+phrase_47|The second half of the book, focuses on argument and essay writing.
+phrase_48|We have the means to help ourselves.
+phrase_49|The large items are put into containers for disposal.
+phrase_50|He loves to watch me drink this stuff.
+phrase_51|Still, it is an odd fashion choice.
+phrase_52|Funding is always an issue after the fact.
+phrase_53|Let us encourage each other.
+phrase_55|Ringtone Noah Mom, Mom
+phrase_56|My name is Celia, nice to meet you.
+phrase_57|I cannot chew very well and I am prone to choking so I need soft foods.
+phrase_58|Thank you.
+phrase_59|I love you.
+phrase_60|Daddy's booty.
+phrase_61|I would like some soda, please.
+phrase_62|I would like some bubble water, please.
+phrase_63|I want pain medicine, please.
+phrase_64|I don't know.
+phrase_65|I have something to say.
+phrase_66|Would you like to be introverts together?
+phrase_67|I like that.
+phrase_68|I don't like that.
+phrase_69|I am choking.
+phrase_70|I am short of breath.
+phrase_71|I am in pain.
+phrase_72|I am hungry.
+phrase_73|I feel tired.
+phrase_74|I feel dizzy.
+phrase_75|I feel afraid.
+phrase_76|I feel happy.
+phrase_77|I feel content.
+phrase_78|I feel sad.
+phrase_79|I want to exercise.
+phrase_80|I want to do speech exercises.
+phrase_81|I want to watch TV.
+phrase_82|I want to go to the kitchen table.
+phrase_83|I want to sleep.
+phrase_84|I want to listen to an audiobook.
+phrase_85|I want to read.
+phrase_86|I want to lie down.
+phrase_87|I want to get up.
+phrase_88|I want my glasses.
+phrase_89|I want the lights on.
+phrase_90|I want the lights off.
+phrase_91|I want to be with Ray.
+phrase_92|I want to be with Barry.
+phrase_93|I want to be with Rachel.
+phrase_94|I want to be with Aaron.
+phrase_95|I want to be with Noah.
+phrase_96|I want to be with my friend.
+phrase_97|I want to be with a cat.
+phrase_98|I want to go outside.
+phrase_99|I want to go inside.
+phrase_100|I want to go out.
+phrase_101|I want to go home.
+phrase_102|Let's go eat!
+phrase_103|I am done.
+phrase_104|I'm not done yet.
+phrase_105|Don't leave.
+phrase_106|Please stay.
+phrase_107|Would you come back later?
+phrase_108|Would you wash my face?
+phrase_109|Would you wash my hair?
+phrase_110|Would you brush my teeth?
+phrase_111|I feel hot.
+phrase_112|I feel cold.
+phrase_113|Would you turn on the heater?
+phrase_114|Would you turn on the air conditioning?
+phrase_115|Would you open the window?
+phrase_116|We need to call the police.
+phrase_117|We need to call fire.
+phrase_118|We need to call the doctor.
+phrase_119|We need to call the ambulance.
+phrase_120|I want to see a caregiver.
+phrase_121|I want to see a doctor.
+phrase_122|I want to see a nurse.
+phrase_123|I want to see my family.
+phrase_124|I want to see a Rabbi.
+phrase_125|I need to use the restroom.
+phrase_126|My speech is not very good.
+phrase_127|I need a pen and paper.
+phrase_128|I don't understand.
+phrase_129|I understand.
+phrase_130|I need more time.
+phrase_131|Please be patient.
+phrase_132|Be more gentle.
+phrase_133|Penney.
+phrase_134|Stop.
+phrase_135|Go.
+phrase_136|No.
+phrase_137|Yes.
+phrase_138|One.
+phrase_139|Two.
+phrase_140|Three.
+phrase_141|Four.
+phrase_142|True.
+phrase_143|False.
+phrase_144|How?
+phrase_145|What?
+phrase_146|When?
+phrase_147|Why?
+phrase_148|Who?
+phrase_149|One hour.
+phrase_150|Fifteen minutes.
