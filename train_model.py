@@ -16,6 +16,8 @@ from TTS.utils.audio import AudioProcessor
 if __name__ == "__main__":
     assert torch.cuda.is_available(), "CUDA is not available"
 
+    os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+
     PWD = os.path.dirname(os.path.abspath(__file__))
     output_path = os.path.join(PWD, "output")
 
@@ -25,7 +27,7 @@ if __name__ == "__main__":
 
     train_samples, eval_samples = load_tts_samples(dataset_config, eval_split=True, eval_split_size=0.03)
 
-    MODEL: Literal["GlowTTS", "Tacotron"] = "GlowTTS"
+    MODEL: Literal["GlowTTS", "Tacotron"] = "Tacotron"
 
     if MODEL == "GlowTTS":
         config = GlowTTSConfig(

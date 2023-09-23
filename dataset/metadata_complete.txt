@@ -1,6 +1,6 @@
 phrase_1||The birch canoe slid on the smooth planks.
 phrase_2||Glue the sheet to the dark blue background.
-phrase_3||It’s easy to tell the depth of a well.
+phrase_3||It's easy to tell the depth of a well.
 phrase_4||These days a chicken leg is a rare dish.
 phrase_5||Rice is often served in round bowls.
 phrase_6||The juice of lemons makes fine punch.
@@ -15,7 +15,7 @@ phrase_14||Kick the ball straight and follow through.
 phrase_15||Help the woman get back to her feet.
 phrase_16||A pot of tea helps to pass the evening.
 phrase_17||Smoky fires lack flame and heat.
-phrase_18||The soft cushion broke the man’s fall.
+phrase_18||The soft cushion broke the man's fall.
 phrase_19||The salt breeze came across from the sea.
 phrase_20||The girl at the booth sold fifty bonds.
 phrase_21||The small pup gnawed a hole in the sock.
